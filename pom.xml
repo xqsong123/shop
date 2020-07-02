@@ -18,7 +18,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
       <spring.version>5.1.6.RELEASE</spring.version>
-      <mysql.version>8.0.15</mysql.version>
+      <mysql.version>8.0.16</mysql.version>
       <servlet-api.version>4.0.1</servlet-api.version>
       <c3p0.version>0.9.5.4</c3p0.version>
       <jackson.version>2.9.9</jackson.version>
